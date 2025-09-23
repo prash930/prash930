@@ -75,7 +75,7 @@
 
 ### 🛒 [Grocery Store Management System](https://github.com/prash930/Grocery_Store_Managment)
 - **Tech Stack:** Database Management
-- **Description: sales management
+- **Description:** sales management
 - **Key Features:** CRUD operations, inventory tracking, sales analytics
 
 ---
