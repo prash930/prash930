@@ -69,13 +69,13 @@
 - **Key Features:** Data cleaning, statistical analysis, market insights visualization
 
 ### 🎬 [Movie Analytics Dashboard](https://github.com/prash930/Movie_anaysis)
-- **Tech Stack:** Python, Power BI, SQL
+- **Tech Stack:** SQL
 - **Description:** Interactive dashboard analyzing movie industry trends and performance metrics
 - **Key Features:** Genre analysis, revenue predictions, audience sentiment analysis
 
 ### 🛒 [Grocery Store Management System](https://github.com/prash930/Grocery_Store_Managment)
-- **Tech Stack:** Python, Database Management
-- **Description:** Full-stack application for inventory and sales management
+- **Tech Stack:** Database Management
+- **Description: sales management
 - **Key Features:** CRUD operations, inventory tracking, sales analytics
 
 ---
