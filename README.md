@@ -16,6 +16,16 @@
 
 ---
 
+## 🏆 Major Achievements
+
+### 🎯 **2025 Unstop Amazon Hackathon**
+- 🥇 **Team Rank: 1116 out of 40,000+ teams**
+- 📊 **Top 3% Performance** in one of India's largest hackathons
+- 💡 Competed against thousands of talented developers nationwide
+- 🚀 Demonstrated exceptional problem-solving and teamwork skills
+
+---
+
 ## 🎯 Current Focus
 
 - 🔬 **Data Science Intern** at **Innomatics Research Labs** (Jan 2025 – July 2025)
@@ -130,13 +140,34 @@
 
 ## 🏅 Competitive Programming
 
+<div align="center">
+
+### 📊 Daily LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/y4B6Zofri5?theme=radical&font=Fira%20Code&ext=heatmap)](https://leetcode.com/y4B6Zofri5)
+
+</div>
+
 ### LeetCode Profile: [y4B6Zofri5](https://leetcode.com/y4B6Zofri5)
-- **Database Problems:** 5 solved ✅
-- **Focus:** SQL optimization and database design
+- 🎯 **Daily Practice:** Solving problems consistently to improve problem-solving skills
+- 💾 **Database Problems:** Active problem solver
+- 🔍 **Focus Areas:** SQL optimization, database design, and algorithmic thinking
+- 📈 **Current Goal:** Building a strong foundation in Data Structures & Algorithms
 
 ### HackerRank Profile: [maskeprashant12](https://hackerrank.com/maskeprashant12)
 - **Skills:** Python (Intermediate), SQL, C, C++
 - **Verified Certificates:** Python (Basic)
+- **Practice Focus:** Problem-solving and competitive programming
+
+---
+
+### 💡 Problem Solving Stats
+
+| Platform | Status | Focus Areas |
+|----------|--------|-------------|
+| **LeetCode** | 🔥 Daily Active | DSA, Database, Algorithms |
+| **HackerRank** | 💪 Regular Practice | Python, SQL, C++ |
+| **Unstop** | 🏆 Top 3% (Amazon Hackathon 2025) | Competitive Programming |
 
 ---
 
@@ -164,7 +195,8 @@ expertise = {
     "Analytics": ["Power BI", "Tableau", "Statistical Analysis", "Data Visualization"],
     "Programming": ["Python", "Java", "SQL", "C++"],
     "Cloud": ["Microsoft Azure", "Cloud Architecture", "Security Frameworks"],
-    "AI_ML": ["TensorFlow", "Computer Vision", "Generative AI", "Prompt Engineering"]
+    "AI_ML": ["TensorFlow", "Computer Vision", "Generative AI", "Prompt Engineering"],
+    "Competitive_Programming": ["DSA", "Problem Solving", "Hackathons"]
 }
 ```
 
@@ -177,6 +209,7 @@ expertise = {
 - ☁️ **Cloud Security** best practices
 - 📱 **MLOps** and model deployment
 - 🔐 **Zero Trust Architecture** implementation
+- 💻 **Advanced Data Structures & Algorithms** for competitive programming
 
 ---
 
@@ -186,6 +219,7 @@ expertise = {
 - 🚀 Contribute to **open-source AI/ML projects**
 - 📚 Pursue advanced certifications in **Cloud Architecture**
 - 🤝 Mentor aspiring **data scientists** and **cybersecurity professionals**
+- 🏆 Participate in more **national and international hackathons**
 
 ---
 
