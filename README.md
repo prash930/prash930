@@ -144,11 +144,11 @@
 
 ### 📊 Daily LeetCode Progress
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/y4B6Zofri5?theme=radical&font=Fira%20Code&ext=heatmap)](https://leetcode.com/y4B6Zofri5)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/prashantmhaske35?theme=radical&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/prashantmhaske35/)
 
 </div>
 
-### LeetCode Profile: [y4B6Zofri5](https://leetcode.com/y4B6Zofri5)
+### LeetCode Profile: [prashantmhaske35](https://leetcode.com/u/prashantmhaske35/)
 - 🎯 **Daily Practice:** Solving problems consistently to improve problem-solving skills
 - 💾 **Database Problems:** Active problem solver
 - 🔍 **Focus Areas:** SQL optimization, database design, and algorithmic thinking
@@ -230,7 +230,7 @@ expertise = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-mhaske-715b24207)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prash930)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantmhaske35@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/y4B6Zofri5)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/prashantmhaske35/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/maskeprashant12)
 
 </div>
