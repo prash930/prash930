@@ -124,20 +124,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Prashant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prash930&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prash930&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prash930&theme=radical)
-
-</div>
-
----
-
 ## 🏅 Competitive Programming
 
 <div align="center">
